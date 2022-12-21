@@ -1,0 +1,2 @@
+Hello from Odin Project
+I am doing this from the command line - vim baby
